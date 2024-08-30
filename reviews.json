@@ -1,0 +1,144 @@
+{
+  "reviews": [
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "pep337",
+          "quality": 5,
+          "difficulty": 2,
+          "review": "Professor Lu is the best, I have had her for 3 classes now and she is by far the professor that cares the most about her students. Attendance isn't required, but if you don't go to class you will miss important info. Class is straightforward.",
+          "timestamp": "May 10th, 2024"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP151",
+          "quality": 3,
+          "difficulty": 3,
+          "review": "Her voice is very soft and I honestly think she would be better at narrating meditation podcasts than teaching lectures, being in there makes me want to fall asleep. She is knowledgeable in her subject, but teaches too much information for an introduction course. Her slides are useless for studying and \"study guides\" are just topics lists",
+          "timestamp": "Apr 22nd, 2024"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP151",
+          "quality": 2,
+          "difficulty": 4,
+          "review": "This professor is kind and puts in good effort in making her lectures engaging. I can tell she is genuinely knowledgeable about the content she is teaching. However, the lectures cover an excessive amount of information for it being an intro class. Her slides are useless and the study topics she posts barely appear on the actual quizzes/exams.",
+          "timestamp": "Dec 25th, 2023"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP151",
+          "quality": 5,
+          "difficulty": 1,
+          "review": "Professor Lu is awesome. Super nice and the class is very fair, no surprises and she really tries to cover content in an engaging way by getting the class to participate. Plus her slides are fun, you never get fun slides in college anymore",
+          "timestamp": "Nov 30th, 2022"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP151",
+          "quality": 5,
+          "difficulty": 2,
+          "review": "made me love astronomy",
+          "timestamp": "Oct 21st, 2022"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP151",
+          "quality": 5,
+          "difficulty": 1,
+          "review": "Super nice, I know a lot of people say her lectures are boring, but if you just sit down and listen/participate they're actually fun. She doesn't care if you get the answer wrong. I feel bad for the lack of participation people give her, I think it makes it more difficult to lecture to kids who obviously don't want to be there",
+          "timestamp": "Oct 21st, 2022"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP151",
+          "quality": 5,
+          "difficulty": 2,
+          "review": "Super passionate and nice professor. If you just show up to lecture, do the hw the class is fine. She's open to talking more about whatever you're interested in if you ask her a question. :)",
+          "timestamp": "Oct 21st, 2022"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP151",
+          "quality": 4,
+          "difficulty": 3,
+          "review": "Straightforward professor, no surprises",
+          "timestamp": "Jun 27th, 2022"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP111",
+          "quality": 2,
+          "difficulty": 3,
+          "review": "She is one of the most boring teachers I have had in my whole life. You will learn nothing in lecture all year. We are two weeks in and 80% of the kids and lecture don't even show up because it is pointless. Every time i go to lecture I regret it.",
+          "timestamp": "Mar 7th, 2022"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP111",
+          "quality": 3,
+          "difficulty": 2,
+          "review": "Professor Lu was very technical and informative when it came to the actual material. She explains things at a higher level than I think most non-physics majors are ready for/appreciate. I think the better professor for getting an A in the course is Chatterjee, but she actually goes much more in depth and is probably better suited for physics majors",
+          "timestamp": "Jan 14th, 2022"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP151",
+          "quality": 4,
+          "difficulty": 3,
+          "review": "Professor Lu is genuinely interested in her subject. Her lectures are often a bit slow, but she's more than willing to talk to you about any concepts you're interested in/confused about and is very approachable. Homeworks and labs are very easy, but you need to know your stuff for her exams; she does give extra credit and grace periods though.",
+          "timestamp": "Dec 13th, 2021"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP111",
+          "quality": 5,
+          "difficulty": 4,
+          "review": "My experience with her has been great, as while her lectures may be a tad bit \"boring\" in the end she has done a very good job at teaching the material. She's a very fair professor and will reasonably accommodate It's a physics class, so you WILL need to work towards your grade The methods she's taught me have worked, but if they don't, go to a TA",
+          "timestamp": "Apr 19th, 2021"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP111",
+          "quality": 1,
+          "difficulty": 3,
+          "review": "I'm gonna be honest, the class kinda sucks. I don't like speaking bad on anyone, but Ting Lu is definitely not the greatest professor. Very lecture heavy. You'll want to fall asleep every time. She does not explain things very well. After a while, some of the equations will just get lost in your head. It's not that terrible, but it's pretty sucky.",
+          "timestamp": "Oct 19th, 2020"
+      },
+      {
+          "professor": "Ting Lu",
+          "department": "Physics department",
+          "school": "Stevens Institute of Technology",
+          "class": "PEP111",
+          "quality": 1,
+          "difficulty": 5,
+          "review": "Ting does not know how to get information clear to her students. There needs to be a standard for professors and she falls well below. She basically sabotaged my grade by claiming I would be able to take a test that I was ill for and then refusing to agree to that later on. In the end she refused to give me the extra .02% that would put me at an A",
+          "timestamp": "Dec 15th, 2019"
+      }
+  ]
+}
